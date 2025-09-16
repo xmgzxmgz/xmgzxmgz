@@ -27,11 +27,11 @@ My name is XMGZ and I'm a software developer/DevOps engineer. I'm from China. Yo
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmgzxmgz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="xmgz's GitHub Stats" />
 </a>
 
-<a href="https://github.com/xmgzxmgz/python-project-blueprint">
+<a href="https://github.com/xmgzxmgz/cockpit_front">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xmgzxmgz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/xmgzxmgz/go-project-blueprint">
+<a href="https://github.com/xmgzxmgz/xmgzxmgz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xmgzxmgz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 

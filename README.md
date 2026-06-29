@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ====== Header ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,50:6C63FF,100:FF6B6B&height=220&section=header&text=夏目%20贵志&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Explorer%20|%20Data%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,50:6C63FF,100:FF6B6B&height=220&section=header&text=贵志的猫&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Explorer%20|%20Data%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- ====== Wave Animation ====== -->
 
@@ -21,7 +21,8 @@
 <br />
 
 ```yaml
-name: 夏目贵志 (XMGZ)
+name: 贵志的猫
+aka: XMGZ
 role: Full-Stack Developer
 location: China 🇨🇳
 education: 学术研究 + 工程实践
@@ -245,9 +246,9 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animables/Cat.png" width="40" />
 
-**「この世界は美しい。だから、僕はここにいる。」**
+**「猫がいた。僕の名前を、知っていた猫が。」**
 
-*This world is beautiful. That's why I'm here.*
+*There was a cat. A cat that knew my name.*
 
 <br />
 

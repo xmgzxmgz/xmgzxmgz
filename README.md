@@ -217,33 +217,35 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me & More
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-#### 🌐 Social
+#### 🌐 Social & Dev
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guizhijun)
+[![Twitter/X](https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/guizhijun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xmgzdm/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xmgzxmgz/)
 
 </td>
 <td width="33%" align="center">
 
-#### 🎮 Interests
+#### 💻 Dev Platforms
 
-<img src="https://img.shields.io/badge/Tetris_99-EA0029?style=for-the-badge&logo=nintendo&logoColor=white" />
-<img src="https://img.shields.io/badge/Hollow_Knight-000000?style=for-the-badge&logo=data&logoColor=white" />
-<img src="https://img.shields.io/badge/Balatro-000000?style=for-the-badge&logo=data&logoColor=white" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz)
+[![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/xmgzxmgz)
+[![Juejin](https://img.shields.io/badge/Juejin_掘金-007FFF?style=for-the-badge&logo=data&logoColor=white)](https://juejin.cn/user/xmgzdm)
 
 </td>
 <td width="33%" align="center">
 
-#### ☕ Support
+#### 🎮 Fun & Life
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/xmgzxmgz)
-<img src="https://img.shields.io/badge/Profile_Views-📈-2bbc8a?style=for-the-badge&logo=github&logoColor=white" />
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1751101370)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/xmgzxmgz)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xmgzdm)
 
 </td>
 </tr>

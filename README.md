@@ -3,20 +3,20 @@
 <!-- ====== Header ====== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,50:6C63FF,100:FF6B6B&height=220&section=header&text=贵志的猫&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Explorer%20|%20Data%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" />
 
-<!-- ====== Wave Animation ====== -->
+<!-- ====== Typing Animation ====== -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C%E5%8F%AA%E8%A6%81%E6%9C%89%E6%83%B3%E8%A7%81%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%B0%B1%E4%B8%8D%E6%98%AF%E5%AD%A4%E8%BA%AB%E4%B8%80%E4%BA%BA%E3%80%8D%0A%E2%80%94%20%E3%80%8A%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90%E3%80%8B" alt="Typing SVG" />
 
 <br />
 
 <!-- ====== Cat Divider ====== -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animables/Cat.png" width="60" alt="Cat" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="60" alt="Cat" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="28" /> &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;About Me
 
 <br />
 
@@ -80,7 +80,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
 
 #### AI & Data
 
@@ -93,7 +93,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="28" /> &nbsp;Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="28" /> &nbsp;Featured Projects
 
 <br />
 
@@ -198,18 +198,6 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;GitHub Trophies
-
-<br />
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xmgzxmgz&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=4" />
-
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me
 
 <br />
@@ -235,16 +223,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 <br />
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xmgzxmgz/xmgzxmgz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xmgzxmgz/xmgzxmgz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xmgzxmgz/xmgzxmgz/output/github-snake.svg" />
-</picture>
-
-<br />
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animables/Cat.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="40" />
 
 **「猫がいた。僕の名前を、知っていた猫が。」**
 

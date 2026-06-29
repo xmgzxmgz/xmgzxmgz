@@ -4,12 +4,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,50:6C63FF,100:FF6B6B&height=220&section=header&text=贵志的猫&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Explorer%20|%20Data%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- ====== Typing Animation ====== -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C%E5%8F%AA%E8%A6%81%E6%9C%89%E6%83%B3%E8%A7%81%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%B0%B1%E4%B8%8D%E6%98%AF%E5%AD%A4%E8%BA%AB%E4%B8%80%E4%BA%BA%E3%80%8D%0A%E2%80%94%20%E3%80%8A%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90%E3%80%8B" alt="Typing SVG" />
 
 <br />
 
-<!-- ====== Cat Divider ====== -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="60" alt="Cat" />
 
 </div>
@@ -18,7 +16,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;About Me
 
-<br />
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
 name: 贵志的猫
@@ -30,33 +30,39 @@ currently: Exploring AI & Data Visualization
 motto: 「温柔的人，终将被世界温柔以待」
 ```
 
-<br />
-
 - 🔭 全栈开发者，热衷于 **AI 应用**、**数据可视化** 和 **macOS 原生开发**
 - 🧠 探索 AI 前沿技术，构建智能工具与数据分析平台
 - 🎮 游戏爱好者 — Tetris 99、Hollow Knight、Balatro
 - 🐱 喜欢猫咪、日系文化和一切温柔的事物
 - 💻 macOS 生态深度用户 · Apple Silicon 开发者
 
+</td>
+<td width="45%" align="center">
+
 <br />
 
-<div align="center">
+<img src="https://img.shields.io/badge/📦_Repos-39-2bbc8a?style=for-the-badge&logo=github&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/💻_Commits-249+-6C63FF?style=for-the-badge&logo=git&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/📅_Since-2020-FF6B6B?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/🖥️_Platform-macOS_(Apple_Silicon)-000000?style=for-the-badge&logo=apple&logoColor=white" /><br/>
 
-### 🎵 Currently Vibing
+<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=400&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+AI+tools+%7C+Crafting+dashboards+%7C+Exploring+data" alt="Typing SVG" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
-<br />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-
-#### Languages
+#### 🧑‍💻 Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
@@ -65,8 +71,10 @@ motto: 「温柔的人，终将被世界温柔以待」
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 
-#### Frameworks & Tools
+#### 🛠️ Frameworks & Tools
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
@@ -74,28 +82,41 @@ motto: 「温柔的人，终将被世界温柔以待」
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MyBatis-EC1C24?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp;
 
-#### Platforms & IDEs
+</td>
+<td width="50%" valign="top">
+
+#### 🖥️ Platforms & IDEs
 
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" />&nbsp;
 
-#### AI & Data
+#### 🤖 AI & Data Science
 
-<img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="28" /> &nbsp;Featured Projects
-
-<br />
 
 <table>
 <tr>
@@ -104,7 +125,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 ### 🧹 MacSweeper
 > 智能 Mac 文件清理工具，分析磁盘并给出安全删除建议
 
-**Swift** · macOS 原生 · CLI
+**Swift** · macOS 原生 · CLI · 磁盘分析
 
 [![Repo](https://img.shields.io/badge/→_View_Repo-2bbc8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/MacSweeper)
 
@@ -114,7 +135,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 ### 🦞 OpenClaw Console
 > 本地 AI 助手控制面板 — 多渠道管理 · 实时监控 · 暗色模式 · PWA
 
-**JavaScript** · AI · Dashboard
+**JavaScript** · AI · Dashboard · PWA
 
 [![Repo](https://img.shields.io/badge/→_View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/openclaw-console)
 
@@ -126,7 +147,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 ### 📊 企业驾驶舱 (Cockpit / EGAP)
 > 企业级数据驾驶舱平台 — 全栈 Java + Vue 数据分析系统
 
-**Java + Vue** · Full-Stack · Data Analytics
+**Java + Vue** · Full-Stack · Data Analytics · ECharts
 
 [![Repo](https://img.shields.io/badge/→_View_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/cockpit_ALL)
 
@@ -136,7 +157,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 ### 🧠 Cognito
 > 认知智能项目 — AI 赋能的数据处理与分析
 
-**Python** · AI · Data Processing
+**Python** · AI · Data Processing · NLP
 
 [![Repo](https://img.shields.io/badge/→_View_Repo-2bbc8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/Cognito)
 
@@ -148,7 +169,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 ### ⚡ Flux
 > 现代化 TypeScript 项目 — 高效 · 类型安全 · 可扩展
 
-**TypeScript** · Modern Architecture
+**TypeScript** · Modern Architecture · Type-Safe
 
 [![Repo](https://img.shields.io/badge/→_View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/Flux)
 
@@ -158,7 +179,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 ### 📐 SchemaLinter
 > 数据库 Schema 规范检查工具 — 自动化代码审查
 
-**Python** · CLI · Dev Tool
+**Python** · CLI · Dev Tool · Linting
 
 [![Repo](https://img.shields.io/badge/→_View_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/SchemaLinter)
 
@@ -166,53 +187,67 @@ motto: 「温柔的人，终将被世界温柔以待」
 </tr>
 </table>
 
-<br />
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
 
-<br />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=xmgzxmgz&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2bbc8a&icon_color=6C63FF&text_color=C9D1D9&ring_color=2bbc8a&include_all_commits=true" />
 
-<!-- Stats Card -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=xmgzxmgz&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2bbc8a&icon_color=6C63FF&text_color=C9D1D9&ring_color=2bbc8a&include_all_commits=true" />
+</td>
+<td width="50%" align="center">
 
-&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmgzxmgz&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2bbc8a&text_color=C9D1D9&langs_count=8" />
 
-<!-- Top Languages -->
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmgzxmgz&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2bbc8a&text_color=C9D1D9&langs_count=8" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-<br /><br />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=xmgzxmgz&theme=tokyonight&background=0D1117&hide_border=true&ring=2bbc8a&fire=FF6B6B&currStreakLabel=2bbc8a&sideLabels=6C63FF" />
 
-<!-- Streak Stats -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=xmgzxmgz&theme=tokyonight&background=0D1117&hide_border=true&ring=2bbc8a&fire=FF6B6B&currStreakLabel=2bbc8a&sideLabels=6C63FF" />
+</td>
+</tr>
+</table>
 
-<br /><br />
-
-<!-- Activity Graph -->
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=xmgzxmgz&bg_color=0D1117&color=2bbc8a&line=6C63FF&point=FF6B6B&area=true&area_color=2bbc8a&hide_border=true" />
-
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xmgzxmgz&bg_color=0D1117&color=2bbc8a&line=6C63FF&point=FF6B6B&area=true&area_color=2bbc8a&hide_border=true" />
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me & More
 
-<br />
+<table>
+<tr>
+<td width="33%" align="center">
 
-<div align="center">
+#### 🌐 Social
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/guizhijun)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xmgzdm/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz)
 
-</div>
+</td>
+<td width="33%" align="center">
 
-<br />
+#### 🎮 Interests
+
+<img src="https://img.shields.io/badge/Tetris_99-EA0029?style=for-the-badge&logo=nintendo&logoColor=white" />
+<img src="https://img.shields.io/badge/Hollow_Knight-000000?style=for-the-badge&logo=data&logoColor=white" />
+<img src="https://img.shields.io/badge/Balatro-000000?style=for-the-badge&logo=data&logoColor=white" />
+
+</td>
+<td width="33%" align="center">
+
+#### ☕ Support
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/xmgzxmgz)
+<img src="https://img.shields.io/badge/Profile_Views-📈-2bbc8a?style=for-the-badge&logo=github&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 

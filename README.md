@@ -1,20 +1,34 @@
 <div align="center">
 
-<!-- ====== Header ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,50:6C63FF,100:FF6B6B&height=220&section=header&text=贵志的猫&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Explorer%20|%20Data%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" />
+<!-- ====== 🌸 Header — 樱花妆的白猫 🌸 ====== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:E8A0BF,100:C9A0DC&height=220&section=header&text=🐱%20贵志的猫&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Sakura%20Cat%20|%20Full-Stack%20Developer%20|%20AI%20Explorer&descSize=18&descAlignY=55&animation=fadeIn" />
 
-<!-- ====== Typing Animation ====== -->
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=2BBC8A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C%E5%8F%AA%E8%A6%81%E6%9C%89%E6%83%B3%E8%A7%81%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%B0%B1%E4%B8%8D%E6%98%AF%E5%AD%A4%E8%BA%AB%E4%B8%80%E4%BA%BA%E3%80%8D%0A%E2%80%94%20%E3%80%8A%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90%E3%80%8B" alt="Typing SVG" />
+<!-- ====== ✨ Typing Animation — 猫的独白 ✨ ====== -->
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C%E5%8F%AA%E8%A6%81%E6%9C%89%E6%83%B3%E8%A7%81%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%B0%B1%E4%B8%8D%E6%98%AF%E5%AD%A4%E8%BA%AB%E4%B8%80%E4%BA%BA%E3%80%8D%0A%E2%80%94%20%E3%80%8A%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90%E3%80%8B" alt="Typing SVG" />
 
 <br />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="60" alt="Cat" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="40" alt="Cherry Blossom" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="30" alt="Cherry Blossom" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="40" alt="Cherry Blossom" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;About Me
+<!-- ====== 🌸 樱花分隔线 ====== -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;🌸 About Me — 猫的自白
 
 <table>
 <tr>
@@ -41,14 +55,14 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 <br />
 
-<img src="https://img.shields.io/badge/📦_Repos-39-2bbc8a?style=for-the-badge&logo=github&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/💻_Commits-249+-6C63FF?style=for-the-badge&logo=git&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/📅_Since-2020-FF6B6B?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/🖥️_Platform-macOS_(Apple_Silicon)-000000?style=for-the-badge&logo=apple&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/📦_Repos-39-FFB7C5?style=for-the-badge&logo=github&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/💻_Commits-249+-E8A0BF?style=for-the-badge&logo=git&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/📅_Since-2020-C9A0DC?style=for-the-badge&logo=githubactions&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/🖥️_Platform-macOS_(Apple_Silicon)-1a1a2e?style=for-the-badge&logo=apple&logoColor=FFB7C5" /><br/>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=400&size=16&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+AI+tools+%7C+Crafting+dashboards+%7C+Exploring+data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=400&size=16&duration=2500&pause=800&color=E8A0BF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+AI+tools+%7C+Crafting+dashboards+%7C+Exploring+data" alt="Typing SVG" />
 
 </td>
 </tr>
@@ -56,7 +70,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;🛠️ Tech Stack — 猫的工具箱
 
 <table>
 <tr>
@@ -64,51 +78,51 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 #### 🧑‍💻 Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Python-FFB7C5?style=for-the-badge&logo=python&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Java-E8A0BF?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-C9A0DC?style=for-the-badge&logo=javascript&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-FFB7C5?style=for-the-badge&logo=typescript&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Swift-E8A0BF?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-C9A0DC?style=for-the-badge&logo=vuedotjs&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=html5&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-E8A0BF?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/SQL-C9A0DC?style=for-the-badge&logo=mysql&logoColor=1a1a2e" />&nbsp;
 
 #### 🛠️ Frameworks & Tools
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/MyBatis-EC1C24?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Spring-FFB7C5?style=for-the-badge&logo=spring&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-E8A0BF?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-C9A0DC?style=for-the-badge&logo=docker&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-FFB7C5?style=for-the-badge&logo=postgresql&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Git-E8A0BF?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/ECharts-C9A0DC?style=for-the-badge&logo=apacheecharts&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-FFB7C5?style=for-the-badge&logo=redis&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/MyBatis-E8A0BF?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp;
 
 </td>
 <td width="50%" valign="top">
 
 #### 🖥️ Platforms & IDEs
 
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/macOS-1a1a2e?style=for-the-badge&logo=apple&logoColor=FFB7C5" />&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-1a1a2e?style=for-the-badge&logo=intellijidea&logoColor=E8A0BF" />&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-C9A0DC?style=for-the-badge&logo=visualstudiocode&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Xcode-FFB7C5?style=for-the-badge&logo=xcode&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/WebStorm-1a1a2e?style=for-the-badge&logo=webstorm&logoColor=E8A0BF" />&nbsp;
+<img src="https://img.shields.io/badge/Chrome-C9A0DC?style=for-the-badge&logo=googlechrome&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/iTerm2-1a1a2e?style=for-the-badge&logo=iterm2&logoColor=FFB7C5" />&nbsp;
+<img src="https://img.shields.io/badge/Homebrew-E8A0BF?style=for-the-badge&logo=homebrew&logoColor=1a1a2e" />&nbsp;
 
 #### 🤖 AI & Data Science
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Claude-FFB7C5?style=for-the-badge&logo=anthropic&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Gemini-C9A0DC?style=for-the-badge&logo=google&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Pandas-E8A0BF?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Scikit_Learn-FFB7C5?style=for-the-badge&logo=scikitlearn&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-C9A0DC?style=for-the-badge&logo=jupyter&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/NumPy-E8A0BF?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-FFB7C5?style=for-the-badge&logo=opencv&logoColor=1a1a2e" />&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-C9A0DC?style=for-the-badge&logo=python&logoColor=1a1a2e" />&nbsp;
 
 </td>
 </tr>
@@ -116,7 +130,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="28" /> &nbsp;Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="28" /> &nbsp;✨ Featured Projects — 猫的宝藏
 
 <table>
 <tr>
@@ -127,7 +141,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 **Swift** · macOS 原生 · CLI · 磁盘分析
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-2bbc8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/MacSweeper)
+[![Repo](https://img.shields.io/badge/🌸_View_Repo-FFB7C5?style=for-the-badge&logo=github&logoColor=1a1a2e)](https://github.com/xmgzxmgz/MacSweeper)
 
 </td>
 <td width="50%">
@@ -137,7 +151,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 **JavaScript** · AI · Dashboard · PWA
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/openclaw-console)
+[![Repo](https://img.shields.io/badge/🌸_View_Repo-E8A0BF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/openclaw-console)
 
 </td>
 </tr>
@@ -149,7 +163,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 **Java + Vue** · Full-Stack · Data Analytics · ECharts
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/cockpit_ALL)
+[![Repo](https://img.shields.io/badge/🌸_View_Repo-C9A0DC?style=for-the-badge&logo=github&logoColor=1a1a2e)](https://github.com/xmgzxmgz/cockpit_ALL)
 
 </td>
 <td width="50%">
@@ -159,7 +173,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 **Python** · AI · Data Processing · NLP
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-2bbc8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/Cognito)
+[![Repo](https://img.shields.io/badge/🌸_View_Repo-FFB7C5?style=for-the-badge&logo=github&logoColor=1a1a2e)](https://github.com/xmgzxmgz/Cognito)
 
 </td>
 </tr>
@@ -171,7 +185,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 **TypeScript** · Modern Architecture · Type-Safe
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/Flux)
+[![Repo](https://img.shields.io/badge/🌸_View_Repo-E8A0BF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/Flux)
 
 </td>
 <td width="50%">
@@ -181,7 +195,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 **Python** · CLI · Dev Tool · Linting
 
-[![Repo](https://img.shields.io/badge/→_View_Repo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz/SchemaLinter)
+[![Repo](https://img.shields.io/badge/🌸_View_Repo-C9A0DC?style=for-the-badge&logo=github&logoColor=1a1a2e)](https://github.com/xmgzxmgz/SchemaLinter)
 
 </td>
 </tr>
@@ -189,35 +203,46 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;📊 GitHub Stats — 猫的成绩单
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xmgzxmgz&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2bbc8a&icon_color=6C63FF&text_color=C9D1D9&ring_color=2bbc8a&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=xmgzxmgz&show_icons=true&bg_color=0D1117&hide_border=true&title_color=FFB7C5&icon_color=E8A0BF&text_color=FFDDE1&ring_color=FFB7C5&include_all_commits=true&custom_title=🌸%20贵志的猫%20GitHub%20Stats" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmgzxmgz&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2bbc8a&text_color=C9D1D9&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmgzxmgz&layout=compact&bg_color=0D1117&hide_border=true&title_color=FFB7C5&text_color=FFDDE1&langs_count=8&custom_title=🌸%20Languages" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=xmgzxmgz&theme=tokyonight&background=0D1117&hide_border=true&ring=2bbc8a&fire=FF6B6B&currStreakLabel=2bbc8a&sideLabels=6C63FF" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=xmgzxmgz&background=0D1117&hide_border=true&ring=FFB7C5&fire=E8A0BF&currStreakLabel=FFB7C5&sideLabels=C9A0DC" />
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xmgzxmgz&bg_color=0D1117&color=2bbc8a&line=6C63FF&point=FF6B6B&area=true&area_color=2bbc8a&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xmgzxmgz&bg_color=0D1117&color=FFB7C5&line=E8A0BF&point=C9A0DC&area=true&area_color=FFB7C5&hide_border=true" />
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me
+<!-- ====== 🌸 樱花分隔线 ====== -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="25" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;💌 Connect With Me — 找到猫
 
 <table>
 <tr>
@@ -225,27 +250,27 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 #### 🌐 Social & Dev
 
-[![Twitter/X](https://img.shields.io/badge/Twitter_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/guizhijun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xmgzdm/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xmgzxmgz/)
+[![Twitter/X](https://img.shields.io/badge/Twitter_X-FFB7C5?style=for-the-badge&logo=x&logoColor=1a1a2e)](https://x.com/guizhijun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=1a1a2e)](https://www.linkedin.com/in/xmgzdm/)
+[![Instagram](https://img.shields.io/badge/Instagram-C9A0DC?style=for-the-badge&logo=instagram&logoColor=1a1a2e)](https://www.instagram.com/xmgzxmgz/)
 
 </td>
 <td width="33%" align="center">
 
 #### 💻 Dev Platforms
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmgzxmgz)
-[![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/xmgzxmgz)
-[![Juejin](https://img.shields.io/badge/Juejin_掘金-007FFF?style=for-the-badge&logo=data&logoColor=white)](https://juejin.cn/user/xmgzdm)
+[![GitHub](https://img.shields.io/badge/GitHub-FFB7C5?style=for-the-badge&logo=github&logoColor=1a1a2e)](https://github.com/xmgzxmgz)
+[![Gitee](https://img.shields.io/badge/Gitee-E8A0BF?style=for-the-badge&logo=gitee&logoColor=white)](https://gitee.com/xmgzxmgz)
+[![Juejin](https://img.shields.io/badge/Juejin_掘金-C9A0DC?style=for-the-badge&logo=data&logoColor=1a1a2e)](https://juejin.cn/user/xmgzdm)
 
 </td>
 <td width="33%" align="center">
 
 #### 🎮 Fun & Life
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1751101370)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/xmgzxmgz)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xmgzdm)
+[![Bilibili](https://img.shields.io/badge/Bilibili-FFB7C5?style=for-the-badge&logo=bilibili&logoColor=1a1a2e)](https://space.bilibili.com/1751101370)
+[![Steam](https://img.shields.io/badge/Steam-E8A0BF?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/xmgzxmgz)
+[![Discord](https://img.shields.io/badge/Discord-C9A0DC?style=for-the-badge&logo=discord&logoColor=1a1a2e)](https://discord.gg/xmgzdm)
 
 </td>
 </tr>
@@ -255,12 +280,13 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,50:6C63FF,100:FF6B6B&height=120&section=footer" />
+<!-- ====== 🌸 Footer — 樱花飘落 🌸 ====== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7C5,50:E8A0BF,100:C9A0DC&height=120&section=footer" />
 
 <br />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="40" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Cherry%20Blossom.png" width="30" />
 
 **「猫がいた。僕の名前を、知っていた猫が。」**
 
@@ -268,6 +294,14 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 <br />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=xmgzxmgz&color=2bbc8a&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=xmgzxmgz&color=FFB7C5&style=flat-square&label=Profile+Views)
+
+<br />
+<br />
+
+<!-- ====== 🐾 小猫爪印 ====== -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="30" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="30" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="30" />
 
 </div>

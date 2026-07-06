@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ====== 🌸 Header — 樱花庄风格 ====== -->
+<!-- ====== 🌸 Header ====== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFB6C1,100:FFC0CB&height=220&section=header&text=贵志的猫&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Explorer%20|%20Data%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" />
 
-<!-- ====== ✨ Typing Animation — 日系二次元风格 ====== -->
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E3%80%8C%E5%8F%AA%E8%A6%81%E6%9C%89%E6%83%B3%E8%A7%81%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%B0%B1%E4%B8%8D%E6%98%AF%E5%AD%A4%E8%BA%AB%E4%B8%80%E4%BA%BA%E3%80%8D%0A%E2%80%94%20%E3%80%8A%E5%A4%8F%E7%9B%AE%E5%8F%8B%E4%BA%BA%E5%B8%90%E3%80%8B" alt="Typing SVG" />
+<!-- ====== ✨ Typing Animation ====== -->
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Code%2C+Coffee%2C+%26+Curiosity+%E2%80%94+Always+building." alt="Typing SVG" />
 
 <br />
 
@@ -28,7 +28,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;🌸 About Me — 猫的自白
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;About Me
 
 <table>
 <tr>
@@ -41,14 +41,13 @@ role: Full-Stack Developer
 location: China 🇨🇳
 education: 学术研究 + 工程实践
 currently: Exploring AI & Data Visualization
-motto: 「温柔的人，终将被世界温柔以待」
+motto: Build things that matter.
 ```
 
 - 🔭 全栈开发者，热衷于 **AI 应用**、**数据可视化** 和 **macOS 原生开发**
 - 🧠 探索 AI 前沿技术，构建智能工具与数据分析平台
 - 🎮 游戏爱好者 — Tetris 99、Hollow Knight、Balatro
-- 🐱 喜欢猫咪、日系文化和一切温柔的事物
-- 💻 macOS 生态深度用户 · Apple Silicon 开发者
+- 🐱 猫党 · macOS 生态深度用户 · Apple Silicon 开发者
 
 </td>
 <td width="45%" align="center">
@@ -70,7 +69,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;🛠️ Tech Stack — 猫的工具箱
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;🛠️ Tech Stack
 
 <table>
 <tr>
@@ -130,7 +129,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="28" /> &nbsp;✨ Featured Projects — 猫的宝藏
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="28" /> &nbsp;✨ Featured Projects
 
 <table>
 <tr>
@@ -203,7 +202,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;📊 GitHub Stats — 猫的成绩单
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;📊 GitHub Stats
 
 <table>
 <tr>
@@ -242,7 +241,7 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;💌 Connect With Me — 找到猫
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me
 
 <table>
 <tr>
@@ -287,10 +286,6 @@ motto: 「温柔的人，终将被世界温柔以待」
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="40" />
 🌸
-
-**「猫がいた。僕の名前を、知っていた猫が。」**
-
-*There was a cat. A cat that knew my name.*
 
 <br />
 

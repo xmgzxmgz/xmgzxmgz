@@ -249,7 +249,6 @@ motto: Build things that matter.
 
 #### 🌐 Social & Dev
 
-[![Twitter/X](https://img.shields.io/badge/Twitter_X-42A5F5?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/guizhijun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-80D8FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/xmgzdm/)
 [![Instagram](https://img.shields.io/badge/Instagram-B3E5FC?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/xmgzxmgz/)
 

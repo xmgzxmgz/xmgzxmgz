@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="60" alt="Cat" />
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Animals/Cat.png" width="60" alt="Cat" />
 🌸
 🌸
 🌸
@@ -28,7 +28,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;About Me
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;About Me
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ motto: Build things that matter.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;🛠️ Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;🛠️ Tech Stack
 
 <table>
 <tr>
@@ -129,7 +129,7 @@ motto: Build things that matter.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="28" /> &nbsp;✨ Featured Projects
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="28" /> &nbsp;✨ Featured Projects
 
 <table>
 <tr>
@@ -202,25 +202,29 @@ motto: Build things that matter.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;📊 GitHub Stats
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xmgzxmgz&show_icons=true&bg_color=0D1117&hide_border=true&title_color=42A5F5&icon_color=80D8FF&text_color=B3E5FC&ring_color=42A5F5&include_all_commits=true" />
+<img src="https://img.shields.io/github/stars/xmgzxmgz?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Stars&color=42A5F5" /><br/>
+<img src="https://img.shields.io/github/followers/xmgzxmgz?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Followers&color=80D8FF" /><br/>
+<img src="https://img.shields.io/github/commit-activity/m/xmgzxmgz?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Commits%2Fmo&color=B3E5FC" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmgzxmgz&layout=compact&bg_color=0D1117&hide_border=true&title_color=42A5F5&text_color=B3E5FC&langs_count=8" />
+<img src="https://img.shields.io/github/languages/top/xmgzxmgz?style=for-the-badge&label=Top%20Lang&color=42A5F5" /><br/>
+<img src="https://img.shields.io/github/languages/count/xmgzxmgz?style=for-the-badge&label=Langs&color=80D8FF" /><br/>
+<img src="https://img.shields.io/github/repo-size/xmgzxmgz/xmgzxmgz?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Repo%20Size&color=B3E5FC" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=xmgzxmgz&background=0D1117&hide_border=true&ring=42A5F5&fire=80D8FF&currStreakLabel=42A5F5&sideLabels=B3E5FC" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=xmgzxmgz&background=0D1117&hide_border=true&ring=42A5F5&fire=80D8FF&currStreakLabel=42A5F5&sideLabels=B3E5FC" />
 
 </td>
 </tr>
@@ -241,7 +245,7 @@ motto: Build things that matter.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/E-Mail.png" width="28" /> &nbsp;Connect With Me
 
 <table>
 <tr>
@@ -283,7 +287,7 @@ motto: Build things that matter.
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Animals/Cat.png" width="40" />
 🌸
 
 <br />
@@ -294,8 +298,8 @@ motto: Build things that matter.
 <br />
 
 <!-- ====== 🐾 小猫爪印 ====== -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="30" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="30" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Animals/Paw%20Prints.png" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Animals/Paw%20Prints.png" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Animals/Paw%20Prints.png" width="30" />
 
 </div>

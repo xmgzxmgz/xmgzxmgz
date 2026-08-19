@@ -157,12 +157,12 @@ motto: Build things that matter.
 <tr>
 <td width="50%">
 
-### 📊 企业驾驶舱 (Cockpit / EGAP)
-> 企业级数据驾驶舱平台 — 全栈 Java + Vue 数据分析系统
+### 🗺️ TravelMap
+> 把你的足迹变成可交互旅行地图 — 数据可视化 + 地图
 
-**Java + Vue** · Full-Stack · Data Analytics · ECharts
+**TypeScript** · Data Visualization · Interactive Map
 
-[![Repo](https://img.shields.io/badge/🌸_View_Repo-B3E5FC?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/cockpit_ALL)
+[![Repo](https://img.shields.io/badge/🌸_View_Repo-B3E5FC?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/travelmap)
 
 </td>
 <td width="50%">

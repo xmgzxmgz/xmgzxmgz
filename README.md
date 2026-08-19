@@ -54,8 +54,8 @@ motto: Build things that matter.
 
 <br />
 
-<img src="https://img.shields.io/badge/📦_Repos-39-42A5F5?style=for-the-badge&logo=github&logoColor=FFFFFF" /><br/>
-<img src="https://img.shields.io/badge/💻_Commits-249+-80D8FF?style=for-the-badge&logo=git&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/github/repo-count/xmgzxmgz?style=for-the-badge&label=Repos&color=42A5F5" /><br/>
+<img src="https://img.shields.io/github/commit-activity/y/xmgzxmgz?style=for-the-badge&label=Commits%2Fyr&color=80D8FF&logo=git&logoColor=FFFFFF" /><br/>
 <img src="https://img.shields.io/badge/📅_Since-2020-B3E5FC?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" /><br/>
 <img src="https://img.shields.io/badge/🖥️_Platform-macOS_(Apple_Silicon)-0D47A1?style=for-the-badge&logo=apple&logoColor=FFFFFF" /><br/>
 

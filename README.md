@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ====== 🌸 Header ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:80D8FF,100:B3E5FC&height=220&section=header&text=贵志的猫&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Explorer%20|%20Data%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,50:80D8FF,100:B3E5FC&height=220&section=header&text=xmgzxmgz&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Explorer%20|%20Data%20Visualization&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- ====== ✨ Typing Animation ====== -->
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Code%2C+Coffee%2C+%26+Curiosity+%E2%80%94+Always+building." alt="Typing SVG" />
@@ -35,7 +35,7 @@
 <td width="55%">
 
 ```yaml
-name: 贵志的猫
+name: xmgzxmgz
 aka: XMGZ
 role: Full-Stack Developer
 location: China 🇨🇳
@@ -253,7 +253,6 @@ motto: Build things that matter.
 
 #### 🌐 Social & Dev
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-80D8FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/xmgzdm/)
 [![Instagram](https://img.shields.io/badge/Instagram-B3E5FC?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/xmgzxmgz/)
 
 </td>

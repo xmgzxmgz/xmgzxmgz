@@ -37,6 +37,7 @@
 ```yaml
 name: xmgzxmgz
 aka: XMGZ
+email: xmgzdm@gmail.com
 role: Full-Stack Developer
 location: China 🇨🇳
 education: 学术研究 + 工程实践
@@ -261,6 +262,7 @@ motto: Build things that matter.
 #### 💻 Dev Platforms
 
 [![GitHub](https://img.shields.io/badge/GitHub-42A5F5?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz)
+[![Gmail](https://img.shields.io/badge/Gmail-xmgzdm%40gmail.com-80D8FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:xmgzdm@gmail.com)
 [![Gitee](https://img.shields.io/badge/Gitee-80D8FF?style=for-the-badge&logo=gitee&logoColor=FFFFFF)](https://gitee.com/xmgzxmgz)
 [![Juejin](https://img.shields.io/badge/Juejin_掘金-B3E5FC?style=for-the-badge&logo=data&logoColor=FFFFFF)](https://juejin.cn/user/xmgzdm)
 

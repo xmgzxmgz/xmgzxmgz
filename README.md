@@ -118,7 +118,7 @@ AI 桌面工具的登录态适配与凭证续期
 
 **Rust · Tauri** ｜ ⭐ 27 ｜ 已发 v0.6.18
 
-[![Repo](https://img.shields.io/badge/查看仓库-42A5F5?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/workbuddy-account-hub)
+[![Repo](https://img.shields.io/badge/Repo-42A5F5?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/workbuddy-account-hub)
 [下载](https://github.com/xmgzxmgz/workbuddy-account-hub/releases)
 
 </td>
@@ -129,7 +129,7 @@ AI 桌面工具的登录态适配与凭证续期
 
 **Python · Qinglong** ｜ ⭐ 24
 
-[![Repo](https://img.shields.io/badge/查看仓库-80D8FF?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/workbuddy-checkin-qinglong)
+[![Repo](https://img.shields.io/badge/Repo-80D8FF?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/workbuddy-checkin-qinglong)
 [配置说明](https://github.com/xmgzxmgz/workbuddy-checkin-qinglong/releases)
 
 </td>
@@ -142,7 +142,7 @@ AI 桌面工具的登录态适配与凭证续期
 
 **C# · Windows** ｜ ⭐ 1
 
-[![Repo](https://img.shields.io/badge/查看仓库-B3E5FC?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/CellPort)
+[![Repo](https://img.shields.io/badge/Repo-B3E5FC?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/CellPort)
 
 </td>
 <td width="50%">
@@ -152,7 +152,7 @@ AI 桌面工具的登录态适配与凭证续期
 
 **Python · FFmpeg** ｜ ⭐ 2
 
-[![Repo](https://img.shields.io/badge/查看仓库-42A5F5?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/low2high-tool)
+[![Repo](https://img.shields.io/badge/Repo-42A5F5?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/low2high-tool)
 
 </td>
 </tr>
@@ -164,7 +164,7 @@ AI 桌面工具的登录态适配与凭证续期
 
 **Python · CLI** ｜ ⭐ 2
 
-[![Repo](https://img.shields.io/badge/查看仓库-80D8FF?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/ruankao-cli)
+[![Repo](https://img.shields.io/badge/Repo-80D8FF?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/ruankao-cli)
 
 </td>
 <td width="50%">
@@ -174,7 +174,7 @@ AI 桌面工具的登录态适配与凭证续期
 
 **C · ESP32** ｜ 配套 [iOS 客户端](https://github.com/xmgzxmgz/ai-passport-ios)
 
-[![Repo](https://img.shields.io/badge/查看仓库-B3E5FC?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/ai-passport-workbuddy)
+[![Repo](https://img.shields.io/badge/Repo-B3E5FC?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz/ai-passport-workbuddy)
 
 </td>
 </tr>
@@ -265,7 +265,7 @@ AI 桌面工具的登录态适配与凭证续期
 
 **内容与社区**
 
-[![Juejin](https://img.shields.io/badge/掘金-42A5F5?style=flat-square&logoColor=FFFFFF)](https://juejin.cn/user/xmgzdm)
+[![Juejin](https://img.shields.io/badge/Juejin-42A5F5?style=flat-square&logoColor=FFFFFF)](https://juejin.cn/user/xmgzdm)
 [![Bilibili](https://img.shields.io/badge/Bilibili-80D8FF?style=flat-square&logo=bilibili&logoColor=FFFFFF)](https://space.bilibili.com/1751101370)
 [![Email](https://img.shields.io/badge/Email-B3E5FC?style=flat-square&logo=gmail&logoColor=FFFFFF)](mailto:xmgzdm@gmail.com)
 

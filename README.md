@@ -2,9 +2,7 @@
 
 <h1>xmgzxmgz</h1>
 
-**Rust / Python 工具链 · AI 账号自动化 · 全栈开发**
-
-把脚本原型打磨成能装、能跑、不掉登录态的成品。
+**Full-Stack Developer | AI Explorer | Data Visualization**
 
 [![Blog](https://img.shields.io/badge/Blog-xmgzxmgz.github.io-42A5F5?style=for-the-badge&logo=githubpages&logoColor=FFFFFF)](https://xmgzxmgz.github.io)
 [![Stars](https://img.shields.io/github/stars/xmgzxmgz?style=for-the-badge&label=Stars&color=42A5F5&logo=github&logoColor=FFFFFF)](https://github.com/xmgzxmgz?tab=repositories)
@@ -14,7 +12,7 @@
 
 ---
 
-## About Me
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;About Me
 
 <table>
 <tr>
@@ -23,34 +21,31 @@
 ```yaml
 name: xmgzxmgz
 aka: XMGZ
+email: xmgzdm@gmail.com
 role: Full-Stack Developer
-focus: AI 工具链 / 账号与凭证管理 / 本地优先自动化
-stack: Python 验证 → Rust·C#·Swift·C 交付
 location: China 🇨🇳
-since: 2020
+education: 学术研究 + 工程实践
+currently: Exploring AI & Data Visualization
 motto: Build things that matter.
 ```
 
-- 🦀 主力交付语言是 **Rust**，最常用的快速验证语言是 **Python**
-- 🔧 关注 **账号与登录态管理**、**本地优先（local-first）自动化**、**桌面工具工程化**
-- 🖥️ 跨端习惯：macOS 日常开发，Windows 负责硬件与桌面端
-- 🎮 Tetris 99 · Hollow Knight · Balatro ｜ 🐱 猫党
+- 🔭 全栈开发者，热衷于 **AI 应用**、**数据可视化** 和 **macOS 原生开发**
+- 🧠 探索 AI 前沿技术，构建智能工具与数据分析平台
+- 🎮 游戏爱好者 — Tetris 99、Hollow Knight、Balatro
+- 🐱 猫党 · macOS 生态深度用户 · Apple Silicon 开发者
 
 </td>
 <td width="45%" align="center">
 
-**公开项目**
+<br />
 
-<img src="https://img.shields.io/github/repo-count/xmgzxmgz?style=flat-square&label=Public%20Repos&color=42A5F5" />
-<br/>
-<img src="https://img.shields.io/badge/Top%20Project-Rust%20%C2%B7%20Tauri-B3E5FC?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/Released-3%20versions-80D8FF?style=flat-square" />
-<br/><br/>
+<img src="https://img.shields.io/github/repo-count/xmgzxmgz?style=for-the-badge&label=Repos&color=42A5F5" /><br/>
+<img src="https://img.shields.io/github/commit-activity/y/xmgzxmgz?style=for-the-badge&label=Commits%2Fyr&color=80D8FF&logo=git&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/📅_Since-2020-B3E5FC?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/🖥️_Platform-macOS_(Apple_Silicon)-0D47A1?style=for-the-badge&logo=apple&logoColor=FFFFFF" /><br/>
 
-**最近在做**
+<br />
 
-AI 桌面工具的登录态适配与凭证续期
 
 </td>
 </tr>
@@ -58,48 +53,59 @@ AI 桌面工具的登录态适配与凭证续期
 
 ---
 
-## Tech Stack
-
-> 下面只列**能在公开仓库里验证**的技术；工作项目（企业信息化）中另外使用 Java / Spring / Vue / Redis / MySQL。
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;🛠️ Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**交付语言**
+#### 🧑‍💻 Languages
 
-<img src="https://img.shields.io/badge/Rust-42A5F5?style=for-the-badge&logo=rust&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/C-80D8FF?style=for-the-badge&logo=c&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/C%23-B3E5FC?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Swift-42A5F5?style=for-the-badge&logo=swift&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Kotlin-80D8FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Python-42A5F5?style=for-the-badge&logo=python&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Java-80D8FF?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-B3E5FC?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-42A5F5?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Swift-80D8FF?style=for-the-badge&logo=swift&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-B3E5FC?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-42A5F5?style=for-the-badge&logo=html5&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-80D8FF?style=for-the-badge&logo=css3&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/SQL-B3E5FC?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />&nbsp;
 
-**脚本与前端**
+#### 🛠️ Frameworks & Tools
 
-<img src="https://img.shields.io/badge/Python-42A5F5?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-80D8FF?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/JavaScript-B3E5FC?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Go-42A5F5?style=for-the-badge&logo=go&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/HTML5-80D8FF?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Spring-42A5F5?style=for-the-badge&logo=spring&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-80D8FF?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-B3E5FC?style=for-the-badge&logo=docker&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-42A5F5?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Git-80D8FF?style=for-the-badge&logo=git&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/ECharts-B3E5FC?style=for-the-badge&logo=apacheecharts&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-42A5F5?style=for-the-badge&logo=redis&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/MyBatis-80D8FF?style=for-the-badge&logo=mybatis&logoColor=FFFFFF" />&nbsp;
 
 </td>
 <td width="50%" valign="top">
 
-**框架与工具**
+#### 🖥️ Platforms & IDEs
 
-<img src="https://img.shields.io/badge/Tauri-42A5F5?style=for-the-badge&logo=tauri&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/FFmpeg-80D8FF?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Docker-B3E5FC?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Node.js-42A5F5?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/PostgreSQL-80D8FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Git-B3E5FC?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/macOS-0D47A1?style=for-the-badge&logo=apple&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-0D47A1?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-B3E5FC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Xcode-42A5F5?style=for-the-badge&logo=xcode&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/WebStorm-0D47A1?style=for-the-badge&logo=webstorm&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Chrome-B3E5FC?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/iTerm2-0D47A1?style=for-the-badge&logo=iterm2&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Homebrew-80D8FF?style=for-the-badge&logo=homebrew&logoColor=FFFFFF" />&nbsp;
 
-**平台**
+#### 🤖 AI & Data Science
 
-<img src="https://img.shields.io/badge/macOS-0D47A1?style=for-the-badge&logo=apple&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Windows-42A5F5?style=for-the-badge&logo=windows&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/ESP32-80D8FF?style=for-the-badge&logo=espressif&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS_Code-B3E5FC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Claude-42A5F5?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Gemini-80D8FF?style=for-the-badge&logo=google&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Pandas-B3E5FC?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Scikit_Learn-42A5F5?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-80D8FF?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/NumPy-B3E5FC?style=for-the-badge&logo=numpy&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-42A5F5?style=for-the-badge&logo=opencv&logoColor=FFFFFF" />&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-80D8FF?style=for-the-badge&logo=python&logoColor=FFFFFF" />&nbsp;
 
 </td>
 </tr>
